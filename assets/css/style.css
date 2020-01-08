@@ -9,6 +9,62 @@ body {
 	font-family: "montserrat", sans-serif;
 }
 
+/*HEADER*/
+
+.header {
+	height: 100px;
+	background: #F9DCEF;
+	padding: 0 20px;
+	color: #000;
+}
+
+.logo {
+	line-height: 100px;
+	float: left;
+	text-transform: uppercase;
+}
+
+
+.menu {
+	float: right;
+	line-height: 100px;
+}
+
+.menu a {
+	color: #fff;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 0 10px;
+	transition: 0.4s;
+}
+
+.show-menu-botton, .hide-menu-botton {
+	transition: 0.4s;
+	font-size: 30px;
+	display: none;
+	cursor: pointer;
+}
+
+.show-menu-botton {
+	float: right;
+}
+
+.show-menu-botton i {
+	line-height: 100px;
+}
+
+.menu a:hover,
+.show-menu-botton:hover,
+.hide-menu-botton:hover {
+	color: #3498db;
+}
+
+#checkbox {
+	position: absolute;
+	visibility: hidden;
+	z-index: -1111;
+}
+
 /*FIX CONTACT*/
 
 .contact-info {
