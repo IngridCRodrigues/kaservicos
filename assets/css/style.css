@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700');
+
 * {
 	margin: 0;
 	padding: 0;
@@ -16,6 +18,10 @@ body {
 	display: block;
 }
 
+header, textarea, form, input {
+	font-family: "montserrat", sans-serif;
+
+}
 
 /*HEADER*/
 
@@ -89,7 +95,7 @@ section .divisor::after {
 .menu a:hover,
 .show-menu-botton:hover,
 .hide-menu-botton:hover {
-	color: #3498db;
+	color: #3f4c6b;
 }
 
 #checkbox {
@@ -258,18 +264,17 @@ section .divisor::after {
 }
 
 .option:hover i {
-	color: #3498db
-
+	color: #3f4c6b;
 }
 
 .text {
 	position: absolute;
 	height: 60px;
-	width: 200px;
+	width: 220px;
 	background: #801B59;
 	top: 0;
 	z-index: -1;
-	left: -140px;
+	left: -180px;
 	color: #fff;
 	line-height: 60px;
 	text-align: center;
@@ -365,9 +370,6 @@ section .divisor::after {
 	font-size: 34px;
 	margin-bottom: 30px;
 }
-
-
-
 
 
 .box-tec {
@@ -501,9 +503,11 @@ section .divisor::after {
 
 .bottons-bussiness {
 	width: 100%;
-	height: 20vh;
 	display: inline-block;
 	background-color: #801B59;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-attachment: fixed;
 }
 
 .right-col-b { 
@@ -519,7 +523,6 @@ section .divisor::after {
  }
 
 .botton-bussiness-l {
-	display: inline-block;
 	padding: 15px 20px;
 	border: 1px solid #fff;
 	border-radius: 3px;
@@ -528,6 +531,15 @@ section .divisor::after {
 	margin: 5px;
 	float: right;
 	
+}
+
+.botton-bussiness-l:hover {
+	background-color: #3f4c6b;	
+}
+
+.botton-bussiness-r:hover {
+	border: 1px solid #3f4c6b;
+	color: #3f4c6b;
 }
 
 .botton-bussiness-r {
@@ -552,9 +564,9 @@ section .divisor::after {
 }
 
 .section-blog {
-	padding: 70px 0;
 	background: #f1f1f1;
 	text-align: center;
+	padding-bottom: 100px;
 }
 
 .container-blog {
@@ -588,6 +600,10 @@ main {
 	margin-top: 40px;
 }
 
+.header-blog p {
+	margin-top: 25px;
+}
+
 .single-blog {
 	position: relative;
 	overflow: hidden;
@@ -595,6 +611,16 @@ main {
 	height: 100%;
 	box-sizing: border-box;
 	box-shadow: 0 2px 10px #ccc;
+	transition: all .5s;
+}
+
+.single-blog:hover img {
+	transform: scale(1.1);
+	transition: all .4s;
+}
+
+.single-blog:hover .blog-content {
+	bottom: 0;
 	transition: all .5s;
 }
 
@@ -618,6 +644,7 @@ main {
 .blog-content a {
 	font-size: 14px;
 	font-weight: 500;
+	color: white;
 }
 
 .blog-content .botton-blog {
@@ -630,8 +657,29 @@ main {
 	margin: 5px;
 }
 
+.box-botton-blogs {
+	width: 100%;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.botton-blogs {
+	display: inline-block;
+	padding: 5px 10px;
+	border: 1px solid;
+	border-radius: 3px;
+	font-weight: 400;
+	color: white;
+	margin: 5px;
+	background-color: #801B59;
+}
+
+.botton-blogs:hover {
+	background-color: #3f4c6b;
+}
+
 .blog-content .botton-blog:hover {
-	background: blue;
+	background: #801B59;
 	transition: all .5s;
 	text-decoration: none;
 }
@@ -643,6 +691,26 @@ main {
 	}
 }
 
+@media (max-width: 767px) {
+	main {
+		grid-template-columns: repeat(2. 1fr);
+		grid-gap: 15px;
+	}
+
+	.header-blog {
+		width: 95%;
+	}
+
+	.blog-content {
+		bottom: 0;
+	}
+}
+
+@media (max-width: 500px) {
+	main {
+		grid-template-columns: repeat(1, 1fr);
+	}
+}
 
 /*EBOOK*/
 
@@ -716,7 +784,7 @@ main {
 .border {
 	width: 100px;
 	height: 10px;
-	background: #34495e;
+	background: #801B59;
 	margin: 40px auto;
 }
 
