@@ -16,6 +16,7 @@ body {
 	padding: 0;
 	font-family: "montserrat", sans-serif;
 	display: block;
+
 }
 
 header, textarea, form, input {
@@ -24,6 +25,53 @@ header, textarea, form, input {
 }
 
 /*HEADER*/
+
+
+.button-proposal {
+	height: 70%;
+	margin: auto;
+	border-radius: 5px;
+	background-color: #801B59;
+	cursor: pointer;
+	border: none;
+	margin-top: 15px;
+	width: 140px;
+	font-size: 16px;
+	color: white;
+}
+
+
+@-webkit-keyframes glowing {
+  0% { background-color: #801B59; -webkit-box-shadow: 0 0 3px #801B59; }
+  50% { background-color: #4126A9; -webkit-box-shadow: 0 0 3px #4126A9; }
+  100% { background-color: #801B59; -webkit-box-shadow: 0 0 3px #801B59; }
+}
+
+@-moz-keyframes glowing {
+  0% { background-color: #801B59; -moz-box-shadow: 0 0 3px #801B59; }
+  50% { background-color: #4126A9; -moz-box-shadow: 0 0 3px #4126A9; }
+  100% { background-color: #801B59; -moz-box-shadow: 0 0 3px #801B59; }
+}
+
+@-o-keyframes glowing {
+  0% { background-color: #801B59; box-shadow: 0 0 3px #801B59; }
+  50% { background-color: #4126A9; box-shadow: 0 0 3px #4126A9; }
+  100% { background-color: #801B59; box-shadow: 0 0 3px #801B59; }
+}
+
+@keyframes glowing {
+  0% { background-color: #801B59; box-shadow: 0 0 3px #801B59; }
+  50% { background-color: #4126A9; box-shadow: 0 0 3px #4126A9; }
+  100% { background-color: #801B59; box-shadow: 0 0 3px #801B59; }
+}
+
+.button-proposal {
+  -webkit-animation: glowing 1000ms infinite;
+  -moz-animation: glowing 1000ms infinite;
+  -o-animation: glowing 1000ms infinite;
+  animation: glowing 1000ms infinite;
+}
+
 
 .header img {
 	padding: 20px;
@@ -34,7 +82,7 @@ header, textarea, form, input {
 .header {
 	height: 80px;
 	background: #F5F5F5;
-	padding: 0 10px;
+	padding: 10 10px;
 	color: #000;
 	box-shadow: 0 4px 2px -2px #801B59;
 	position: fixed;
@@ -60,8 +108,6 @@ section .divisor::after {
     z-index: -1;
 }
 
-
-
 .menu {
 	float: right;
 	line-height: 100px;
@@ -73,8 +119,6 @@ section .divisor::after {
 	text-decoration: none;
 	padding: 0 10px;
 	transition: 0.4s;
-	font-weight: bold
-
 }
 
 .show-menu-botton, .hide-menu-botton {
@@ -113,7 +157,7 @@ section .divisor::after {
 		position: fixed;
 		width: 100%;
 		height: 100vh;
-		background: #333;
+		background: #FFF;
 		right: -100%;
 		top: 0;
 		text-align: center;
@@ -129,7 +173,7 @@ section .divisor::after {
 	.hide-menu-botton {
 		position: absolute;
 		top: 40px;
-		right: 40px;
+		right: 60px;
 	}
 
 	#checkbox:checked ~ .menu {
@@ -142,15 +186,38 @@ section .divisor::after {
 
 .b1 {
 	width: 100%;
-	height: 100%;
+	height: 100vh;
 	margin: auto;
-	background: url(../img/home.png);
-	top: 0;
-	display: table;
-	background-size: cover;
-	background-attachment: fixed;
+	background: #000;
+	position: relative;
+	overflow: hidden;
 
 }
+
+.b1::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: url(../img/home.png) no-repeat;
+	background-size:cover;
+	opacity: 0.3;
+	animation: anim 25s linear infinite;
+}
+
+@keyframes anim {
+	50% {
+		transform: scale(1.4);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+
+}
+
 
 .b1 .ini{
 	display: table-cell;
@@ -162,6 +229,15 @@ section .divisor::after {
 .content {
 	max-width: 500px;
 	margin: auto;
+	text-align: center;
+
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 1;
+	width: 100%;
+	max-width: 800px;
 	text-align: center;
 }
 
@@ -689,7 +765,27 @@ main {
 		grid-template-columns: repeat(3, fr);
 		grid-gap: 20px;
 	}
+
+
+	.single-blog {
+		width: 100%;
+	}
+
 }
+
+@media (max-width: 800px) {
+	main {
+		grid-template-columns: repeat(2, 50%);
+		grid-gap: 20px;
+	}
+
+
+	.single-blog {
+		width: 100%;
+	}
+	
+}
+
 
 @media (max-width: 767px) {
 	main {
@@ -703,6 +799,10 @@ main {
 
 	.blog-content {
 		bottom: 0;
+	}
+
+	.single-blog {
+		width: 100%;
 	}
 }
 
@@ -892,4 +992,38 @@ a {
 .footer-container h4 {
 	color: white;
 	margin-bottom: 10px;
+}
+
+
+/*ABA DE SERVIÇOS*/
+
+.tab-service {
+	margin-top: 80px;
+	display: inline-block;
+}
+
+.tab-content {
+	display: none;
+	padding: 6px 12px;
+	border: 1px solid #ccc;
+	border-top: none;
+}
+
+.tablinks {	
+  background-color: inherit;
+  float: left;
+  cursor: pointer;
+  padding: 30px 34px;
+  transition: 0.3s;
+  font-size: 10px;
+}
+
+.tablinks i {
+	font-size: 45px;
+	color: #801B59;
+}
+
+.tablinks h2 {
+	font-weight: normal;
+	text-transform: uppercase;
 }

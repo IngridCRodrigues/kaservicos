@@ -3,14 +3,17 @@
 <head>
 	<meta charset="utf-8">
 	<title>KA Serviços Contabéis</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="../assets/css/style.css">
 	<script src="https://kit.fontawesome.com/0c3fd300b7.js" crossorigin="anonymous"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<header>
+	<?php include('../includes/header.inc'); ?>
+<!-- <header>
 	<div class="header">
 		<img src="assets/img/kalogo.png" class="logo">
+
+		<button class="button-proposal">Solicitar Proposta</button>
 		<input type="checkbox" id="checkbox">	
 		<label for="checkbox" class="show-menu-botton">
 			<i class="fas fa-bars"></i>
@@ -19,7 +22,7 @@
 		<ul class="menu">
 			<a href="#">HOME</a>
 			<a href="#box-tecs">SOBRE NÓS</a>
-			<a href="#">SERVIÇOS</a>
+			<a href="#services">SERVIÇOS</a>
 			<a href="#">CASES</a>
 			<a href="#">BLOG</a>
 			<a href="#contact">CONTATO</a>
@@ -28,7 +31,8 @@
 			</label>
 		</ul>
 	</div>
-</header>
+</header> -->
+
 
 <body>
 
@@ -111,7 +115,7 @@
 		</div>
 	</div> -->
 
-		<div class="box-tec">
+<!-- 		<div class="box-tec">
 			<div class="service-tec">
 				<i class="far fa-circle"></i>
 				<h2>Contabilidade</h2>
@@ -127,10 +131,10 @@
 				<h2>Marketing</h2>
 			</div>
 		</div>
+ -->
 
 
-
-	<div class="services">
+	<div class="services" id="services">
 <!-- 		<h1>NOSSAS ESPECIALIDADES</h1>
  -->
 		<div class="cen">
@@ -142,7 +146,7 @@
 
 			<div class="service">
 				<i class="fas fa-calculator"></i>
-				<h2>Setor Fiscal e Contábil</h2>
+				<h2>Assessoria Tributária/Fiscal</h2>
 				<p>Lorem Ipsum</p>
 			</div>
 
@@ -160,7 +164,7 @@
 
 			<div class="service">
 				<i class="fas fa-building"></i>
-				<h2>Treinamentos</h2>
+				<h2>Cursos e Treinamentos</h2>
 				<p>Lorem Ipsum</p>
 			</div>
 
@@ -231,7 +235,7 @@
 						</div>
 					</div>
 				</main>
-				
+
 					<div class="box-botton-blogs">
 							<a href="" class="botton-blogs">Ver todos</a>
 					</div>
@@ -286,7 +290,7 @@
 			</div>
 
 			<div class="right-col"></div>
-			<p class="rights-text"> 2020 Criado por KA Serviços	- Todos os direitos reservados	
+			<p class="rights-text"> 2020 Criado por 7K Tecnologia e Marketing - Todos os direitos reservados	
 				</p>
 		</footer>
 </body>
