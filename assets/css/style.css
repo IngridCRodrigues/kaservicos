@@ -1027,3 +1027,71 @@ a {
 	font-weight: normal;
 	text-transform: uppercase;
 }
+/*
+
+OPEN BUNISSESS */
+
+.all-page {
+	width: 100%;
+	min-height: 100vh;
+}
+
+.top-page {
+
+}
+
+
+.top-open {
+	width: 100%;
+	height: 40vh;
+	margin: auto;
+	background: #000;
+	position: relative;
+	overflow: hidden;
+
+}
+
+.top-open::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background: url(../img/home.png) no-repeat;
+	background-size:cover;
+	opacity: 0.3;
+	animation: anim 25s linear infinite;
+}
+
+
+.content-top {
+	max-width: 500px;
+	margin: auto;
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 1;
+	width: 100%;
+	max-width: 800px;
+	text-align: center;
+}
+
+.content-top h1 {
+	color: #f9f3f4;
+	font-size: 50px;
+	text-shadow: 0 0 300px #000;
+}
+
+.color {
+	background-color: #bdc3c7;
+}
+
+.div-service {
+	width: 80%;
+	height: 80vh;
+	background-color: #ecf0f1;
+	margin: auto;
+}

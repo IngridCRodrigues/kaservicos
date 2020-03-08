@@ -9,65 +9,7 @@
 </head>
 
 	<?php include('../includes/header.inc'); ?>
-<!-- <header>
-	<div class="header">
-		<img src="assets/img/kalogo.png" class="logo">
-
-		<button class="button-proposal">Solicitar Proposta</button>
-		<input type="checkbox" id="checkbox">	
-		<label for="checkbox" class="show-menu-botton">
-			<i class="fas fa-bars"></i>
-		</label>
-
-		<ul class="menu">
-			<a href="#">HOME</a>
-			<a href="#box-tecs">SOBRE NÓS</a>
-			<a href="#services">SERVIÇOS</a>
-			<a href="#">CASES</a>
-			<a href="#">BLOG</a>
-			<a href="#contact">CONTATO</a>
-			<label for="checkbox" class="hide-menu-botton">				
-				<i class="fas fa-times"></i>
-			</label>
-		</ul>
-	</div>
-</header> -->
-
-
 <body>
-
-	<!-- <section class="slide-box">
-		
-	<div class="slidershow middle">
-		<div class="slides">
-			<input type="radio" name="r" id="r1" checked>
-			<input type="radio" name="r" id="r2">
-			<input type="radio" name="r" id="r3">
-			<input type="radio" name="r" id="r4">
-				<div class="slide s1">
-					<img src="assets/img/contact-bg.png" alt="">					
-				</div>
-				<div class="slide">
-					<img src="assets/img/ebook-bg.png" alt="">					
-				</div>
-				<div class="slide ">
-					<img src="1.jpg" alt="">		
-				</div>
-				<div class="slide ">
-					<img src="1.jpg" alt="">					
-				</div>
-			
-		</div>
-		<div class="navigation">
-			<label for="r1" class="bar"></label>
-			<label for="r2" class="bar"></label>
-			<label for="r3" class="bar"></label>
-			<label for="r4" class="bar"></label>
-		</div>
-	</div>
-
-	</section> -->
-
 <section class="b1">
 	<div class="ini">
 		<div class="content">
@@ -190,7 +132,7 @@
 			<div class="container-blog">
 				<div class="header-blog">
 					<h1>BLOG</h1>
-					<p>Aprensentamos os melhores conteúdos de forma gratuita para você.</p>
+					<p>Apresentamos os melhores conteúdos de forma gratuita para você.</p>
 				</div>
 
 				<main>
