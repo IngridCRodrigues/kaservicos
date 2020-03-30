@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="../assets/css/style.css">
 	<script src="https://kit.fontawesome.com/0c3fd300b7.js" crossorigin="anonymous"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Empresa de Contabilidade em Salvador com mais de 14 anos de experiência. Alinhamos confiança e inovação."> 
 </head>
 
 	<?php include('../includes/header.inc'); ?>
