@@ -15,7 +15,7 @@
 			<a href="#">CASES</a>
 			<a href="#">BLOG</a>
 			<a href="#contact">CONTATO</a>
-			<a href="#contact">ÁREA DO CLIENTE</a>
+			<a href="https://www.dominioatendimento.com:82/login.html" target="_blank">ÁREA DO CLIENTE</a>
 			<label for="checkbox" class="hide-menu-botton">				
 				<i class="fas fa-times"></i>
 			</label>

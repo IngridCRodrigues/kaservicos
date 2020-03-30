@@ -3,12 +3,12 @@
 			<div class="left-col">
 				<!-- <img class="logo-footer" src="assets/img/logo.png" alt="KA Serviços Contábeis"> -->
 				<div class="social-media">
-					<a href="www.facebook.com/kaservicoscontabeis"><i class="fab fa-facebook"></i></a>
-					<a href="www.instagram.com/kaservicos"><i class="fab fa-instagram"></i></a>
-					<a href="#"><i class="fab fa-youtube"></i></a>
-					<a href="www.linkedin.com.br/company/kaservicos"><i class="fab fa-linkedin-in"></i></a>
+					<a href="www.facebook.com/kaservicoscontabeis" target="_blank"><i class="fab fa-facebook"></i></a>
+					<a href="www.instagram.com/kaservicos" target="_blank"><i class="fab fa-instagram"></i></a>
+					<a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+					<a href="www.linkedin.com.br/company/kaservicos" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 				</div>
-		<a href="#"><h4>Área do Cliente</h1></a>
+		<a href="https://www.dominioatendimento.com:82/login.html" target="_blank"><h4>Área do Cliente</h1></a>
 			</div>
 
 			<div class="right-col"></div>
