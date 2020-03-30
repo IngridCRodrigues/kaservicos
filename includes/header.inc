@@ -11,7 +11,7 @@
 		<ul class="menu">
 			<a href="#">HOME</a>
 			<a href="#box-tecs">SOBRE NÓS</a>
-			<a href="#services">SERVIÇOS</a>
+			<a href="index.php#box-tecs">SERVIÇOS</a>
 			<a href="#">CASES</a>
 			<a href="#">BLOG</a>
 			<a href="#contact">CONTATO</a>

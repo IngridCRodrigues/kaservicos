@@ -2,7 +2,7 @@
 <html lang="pt">
 <head>
 	<meta charset="utf-8">
-	<title>KA Serviços Contabéis</title>
+	<title>Serviços Contabéis</title>
 	<link rel="stylesheet" type="text/css" href="../assets/css/style.css">
 	<script src="https://kit.fontawesome.com/0c3fd300b7.js" crossorigin="anonymous"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">

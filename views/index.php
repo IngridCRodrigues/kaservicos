@@ -147,7 +147,7 @@
 						</div>
 					</div>
 					<div class="single-blog">
-						<img src="assets/img/2.png" alt="">
+						<img src="../assets/img/2.png" alt="">
 						<div class="blog-content">
 							<h3>Dia da Consciência Negra
 								
@@ -157,7 +157,7 @@
 						</div>
 					</div>
 					<div class="single-blog">
-						<img src="assets/img/3.png" alt="">
+						<img src="../assets/img/3.png" alt="">
 						<div class="blog-content">
 							<h3>Nibo Conference
 								
@@ -167,7 +167,7 @@
 						</div>
 					</div>
 					<div class="single-blog">
-						<img src="assets/img/4.png" alt="">
+						<img src="../assets/img/4.png" alt="">
 						<div class="blog-content">
 							<h3>Aposentadoria
 								
@@ -221,7 +221,7 @@
 		</section>
 		<footer class="footer-container">
 			<div class="left-col">
-				<!-- <img class="logo-footer" src="assets/img/logo.png" alt="KA Serviços Contábeis"> -->
+				<!-- <img class="logo-footer" src="../assets/img/logo.png" alt="KA Serviços Contábeis"> -->
 				<div class="social-media">
 					<a href="#"><i class="fab fa-facebook"></i></a>
 					<a href="#"><i class="fab fa-instagram"></i></a>
