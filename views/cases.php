@@ -36,20 +36,20 @@
                                 <img src="../assets/img/1.png" alt="PetroEng">
                                 <div class="name-case">GRÁFICA GRAJAÚ</div>
                                 <p>
-                                    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "
+                                    "Entregar a Administração Contábil da nossa empresa nas mãos da KA, foi a atiude mais assertiva e mais sensata que tomamos, pelo compromisso, pela dedicação e profissionalismo da KA, nós paramos de nos preocuparcom esse segmento e dar atenção e foco naquilo que realmente dá retorno para nossa empresa. A Grajaú se sente honrada por estar fazendo parte dessa família. Parabéns KA"
                                     <br>
-                                    <br>Gabriel Sousa - Diretor Financeiro
+                                    <br>Márcia Silva - Sócia da Gráfica Grajaú
                                 </p>
                             </div>
                         </div>
 
                     <div class="col-case">
                         <div class="case">
-                            <img src="../assets/img/1.png" alt="PetroEng">
+                            <img src="../assets/img/pretroeng-logo.png" alt="PetroEng">
                             <div class="name-case">PETROENG</div>
                             <p>
-                                "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. "<br>
-                                <br>Gabriel Sousa - Diretor Financeiro
+                                "Somos parceiros desde o início e a cada dia nos surpreendemos cada vez mais com tanto profissionalismo, ética, competência, transparencia e qualidade nos seus serviços. Muito Obrigado!"<br>
+                                <br>Reinaldo Dorea - Sócio da Petroeng 
                             </p>
                         </div>
                     </div>

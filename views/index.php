@@ -47,39 +47,10 @@
 
 		<p> Somos uma empresa de contabilidade carregando a experiência de 13 anos, <br> aplicando atendimento personalizado dos seus clientes. </p>
 
-<!-- 	<div class="box-tec">
-		<div class="box">
-			<span class="s1">
-				<i class="fas fa-building"></i></span>
-			<span class="s1">
-				<i class="fas fa-building"></i></span>
-			<span class="s1">
-				<i class="fas fa-building"></i></span>
-		</div>
-	</div> -->
-
-<!-- 		<div class="box-tec">
-			<div class="service-tec">
-				<i class="far fa-circle"></i>
-				<h2>Contabilidade</h2>
-			</div>
-
-			<div class="service-tec">
-				<i class="far fa-circle"></i>
-				<h2>Tecnologia</h2>
-			</div>
-
-			<div class="service-tec">
-				<i class="far fa-circle"></i>
-				<h2>Marketing</h2>
-			</div>
-		</div>
- -->
 
 
 	<div class="services" id="services">
-<!-- 		<h1>NOSSAS ESPECIALIDADES</h1>
- -->
+
 		<div class="cen">
 			<div class="service">
 				<i class="fas fa-building"></i>
@@ -106,16 +77,11 @@
 			</div>
 
 			<div class="service">
-				<i class="fas fa-building"></i>
+				<i class="fas fa-chalkboard-teacher"></i>
 				<h2>Cursos e Treinamentos</h2>
 				<p>Lorem Ipsum</p>
 			</div>
 
-			<div class="service">
-				<i class="fas fa-building"></i>
-				<h2>Criação de Sites e Redes Sociais</h2>
-				<p>Lorem Ipsum</p>
-			</div>
 		</div>
 		</section>
 
@@ -224,10 +190,10 @@
 			<div class="left-col">
 				<!-- <img class="logo-footer" src="../assets/img/logo.png" alt="KA Serviços Contábeis"> -->
 				<div class="social-media">
-					<a href="#"><i class="fab fa-facebook"></i></a>
-					<a href="#"><i class="fab fa-instagram"></i></a>
-					<a href="#"><i class="fab fa-youtube"></i></a>
-					<a href="#"><i class="fab fa-linkedin-in"></i></a>
+					<a href="www.facebook.com/kaservicoscontabeis" target="_blank"><i class="fab fa-facebook"></i></a>
+					<a href="www.instagram.com/kaservicos" target="_blank"><i class="fab fa-instagram"></i></a>
+					<a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+					<a href="www.linkedin.com.br/company/kaservicos" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 				</div>
 		<a href="#"><h4>Área do Cliente</h1></a>
 			</div>

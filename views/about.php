@@ -24,17 +24,17 @@
 
 	<div class="box-tec">
 			<div class="service-tec">
-				<i class="far fa-circle"></i>
+				<i class="fas fa-bullseye"></i>
 				<h2>Missão</h2>
 			</div>
 
 			<div class="service-tec">
-				<i class="far fa-circle"></i>
+				<i class="far fa-eye"></i>
 				<h2>Visão</h2>
 			</div>
 
 			<div class="service-tec">
-				<i class="far fa-circle"></i>
+				<i class="fab fa-gratipay"></i>
 				<h2>Valores</h2>
 			</div>
 		</div>
