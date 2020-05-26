@@ -1334,8 +1334,17 @@ OPEN BUNISSESS */
 	display: inline-block;
 	font-size: 16px;
 	margin: 4px 2px;
-	background: #2f3542;
+	background: #0d0c52;
 	text-transform: uppercase;
 	cursor: pointer;
 }
 
+.button-c:hover {
+	background-color: #2f3542;
+}
+
+
+a {
+
+	text-decoration: none;
+}
