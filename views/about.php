@@ -56,8 +56,13 @@
 		</div>
 
 		<div class="description-t">
-			lorekroerjwinfishdasi ojfaiashfai
-		</div>
+			Atuamos no segmento contábil a mais de 14 anos com qualidade e inovação.
+
+			Nossa sede fica em Salvador/BA, contudo, atendemos nos mais diversos Estados, como São Paulo, Rio de Janeiro, Sergipe, Minas Gerais e Rio Grande do Norte.
+
+			Prestamos serviços paralegais, assessoria e/ou consultoria contábil, tributária e trabalhista prezando a ética, o respeito e a confidencialidade das informações.
+
+					</div>
 	</section>
 </body>
 

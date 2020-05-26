@@ -31,25 +31,38 @@
 
                     <div class="row-case">
 
-                        <div class="col-case">
-                            <div class="case">
-                                <img src="../assets/img/1.png" alt="PetroEng">
-                                <div class="name-case">GRÁFICA GRAJAÚ</div>
-                                <p>
-                                    "Entregar a Administração Contábil da nossa empresa nas mãos da KA, foi a atiude mais assertiva e mais sensata que tomamos, pelo compromisso, pela dedicação e profissionalismo da KA, nós paramos de nos preocuparcom esse segmento e dar atenção e foco naquilo que realmente dá retorno para nossa empresa. A Grajaú se sente honrada por estar fazendo parte dessa família. Parabéns KA"
-                                    <br>
-                                    <br>Márcia Silva - Sócia da Gráfica Grajaú
-                                </p>
-                            </div>
-                        </div>
+                        
 
                     <div class="col-case">
                         <div class="case">
-                            <img src="../assets/img/pretroeng-logo.png" alt="PetroEng">
+                            <img src="../assets/img/1.png" alt="PetroEng">
                             <div class="name-case">PETROENG</div>
                             <p>
                                 "Somos parceiros desde o início e a cada dia nos surpreendemos cada vez mais com tanto profissionalismo, ética, competência, transparencia e qualidade nos seus serviços. Muito Obrigado!"<br>
                                 <br>Reinaldo Dorea - Sócio da Petroeng 
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-case">
+                            <div class="case">
+                                <img src="../assets/img/1.png" alt="PetroEng">
+                                <div class="name-case">APURE</div>
+                                <p>
+                                    "O que nos encanta no serviço prestado pela KA é a união da agilidade e a segurança. A empresa foge do que seria a contabilidade tradicional, e fecha uma relação de parceria com o cliente."
+                                    <br>
+                                    <br>André Luengo - Gerente de Negócios da APURE
+                                </p>
+                            </div>
+                        </div>
+
+                     <div class="col-case">
+                        <div class="case">
+                            <img src="../assets/img/1.png" alt="PetroEng">
+                            <div class="name-case">GRUPO BLACK</div>
+                            <p>
+                                "Festejando quase uma década com uma parceria de muita satisfação e confiança com a KA Serviços. É com muita segurança que indicamos sem medo de errar! Cliente satisfeito com toda a transparência e dedicação ao longo desses anos. Gratos!"<br>
+                                <br>Monaliza Soledade - Sócia do Grupo Black
                             </p>
                         </div>
                     </div>

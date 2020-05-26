@@ -12,17 +12,18 @@
 		include("../includes/medias.inc");
 	?>
 <body class="color">
-	<section class="all-page">
-	<div class="top-open">
+	<section class="all-page" id="image-bpo">
+	<div class="top-open-personal">
 		<div class="top-page">
 			<div class="content-top">
 	 			<h1>SETOR PESSOAL</h1>
 			</div>		
 		</div>
 	</div>
-
-	<div class="div-service">	
-	<p>
+	<div class="div-service container">	
+	<div class="row">
+		<div class="">
+<p>
 		É importante compreender que é papel do departamento pessoal cuidar de toda a administração de pessoal. Sabemos que os funcionários são o maior bem de uma empresa, sem eles as coisas simplesmente não acontecem, a produção não caminha e seus clientes não recebem atendimento.
 		<br><br>
 
@@ -49,9 +50,7 @@
 		•	Comunicação e adequação dos clientes sobre mudanças pertinentes na legislação.<br>
 
 
-	</p>
-
-	</div>
+		</div>
 
 	</section>
 

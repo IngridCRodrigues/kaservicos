@@ -15,7 +15,7 @@
 	?>
 <body class="color">
 	<section class="all-page">
-	<div class="top-open">
+	<div class="top-open-fiscal">
 		<div class="top-page">
 			<div class="content-top">
 	 			<h1>SETOR FISCAL</h1>

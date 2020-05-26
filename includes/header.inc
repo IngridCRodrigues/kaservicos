@@ -9,12 +9,12 @@
 		</label>
 
 		<ul class="menu">
-			<a href="#">HOME</a>
-			<a href="#box-tecs">SOBRE NÓS</a>
+			<a href="#index.php">HOME</a>
+			<a href="../views/about.php">SOBRE NÓS</a>
 			<a href="index.php#box-tecs">SERVIÇOS</a>
-			<a href="#">CASES</a>
+			<a href=../views/cases.php>CASES</a>
 			<a href="#">BLOG</a>
-			<a href="#contact">CONTATO</a>
+			<a href="index.php#contact">CONTATO</a>
 			<a href="https://www.dominioatendimento.com:82/login.html" target="_blank">ÁREA DO CLIENTE</a>
 			<label for="checkbox" class="hide-menu-botton">				
 				<i class="fas fa-times"></i>
