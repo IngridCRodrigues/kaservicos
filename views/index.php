@@ -55,31 +55,31 @@
 			<div class="service">
 				<i class="fas fa-building"></i>
 				<h2>Abertura de empresas</h2>
-				<p>Lorem Ipsum</p>
+				
 			</div>
 
 			<div class="service">
 				<i class="fas fa-calculator"></i>
 				<h2>Assessoria Tributária/Fiscal</h2>
-				<p>Lorem Ipsum</p>
+				
 			</div>
 
 			<div class="service">
 				<i class="fas fa-users-cog"></i>
 				<h2>Setor Pessoal</h2>
-				<p>Lorem Ipsum</p>
+				
 			</div>
 
 			<div class="service">
 				<i class="fas fa-chart-line"></i>
 				<h2>BPO Financeiro</h2>
-				<p>Lorem Ipsum</p>
+				
 			</div>
 
 			<div class="service">
 				<i class="fas fa-chalkboard-teacher"></i>
 				<h2>Cursos e Treinamentos</h2>
-				<p>Lorem Ipsum</p>
+				
 			</div>
 
 		</div>
@@ -153,14 +153,14 @@
 		</section>
 
 		<section class="divisor" id="ebook">
-			<div class="container">
+			<div class="container-b">
 				<form>
 					<h1>Baixe grátis nosso e-book</h1>
 					<p>"Primeiros passos para empreender" é um guia para você que está começando o seu negócio ou precisa recomeçar em algumas áreas do seu empreendimento</p>
 					<div class="email-box">
 						<i class="fas fa-download"></i>
 						<input class="tbox" type="email" name="" value="" placeholder="Insira seu e-mail para baixar">
-						<button type="button" name="button" class="button">Baixar</button>
+						<button type="button" name="button" class="button-b">Baixar</button>
 					</div>
 				</form>
 			</div>

@@ -1,6 +1,6 @@
 <header>
 	<div class="header">
-		<a href="www.kaservicos.com.br"><img src="../assets/img/kalogo.png" class="logo"></a>
+		<a href="www.kaservicos.com.br"><img src="../assets/img/kalogo.png" class="logo-b"></a>
 
 		<button class="button-proposal">Solicitar Proposta</button>
 		<input type="checkbox" id="checkbox">	

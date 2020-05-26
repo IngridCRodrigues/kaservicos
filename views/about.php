@@ -12,45 +12,53 @@
 <body>
 	<section class="all-page">
 	
-	<div class="top-open">
-		<div class="top-page">
-			<div class="content-top">
-	 			<h1>SOBRE NÓS</h1>
-			</div>		
-		</div>
-	</div>
-
-	<div class="div-service">	
-
-	<div class="box-tec">
-			<div class="service-tec">
-				<i class="fas fa-bullseye"></i>
-				<h2>Missão</h2>
-			</div>
-
-			<div class="service-tec">
-				<i class="far fa-eye"></i>
-				<h2>Visão</h2>
-			</div>
-
-			<div class="service-tec">
-				<i class="fab fa-gratipay"></i>
-				<h2>Valores</h2>
+		<div class="top-open">
+			<div class="top-page">
+				<div class="content-top">
+		 			<h1>SOBRE NÓS</h1>
+				</div>		
 			</div>
 		</div>
 
-	<p>
-		Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-	</p>
+		<div class="body-t">
+				<div class="container-t">
+					<div class="box-t">
+						<h4 class="size-t"><i class="fas fa-bullseye"></i></h4>
+						<h5 class="size-tt">Missão</h5>
+						<p>
+							Auxiliar empresários a prosperar nos seus negócios com uso de ferramentas 
+							modernas, aliando confiança e inovação com eficiência e eficácia na gestão financeira e 
+							tomada de decisões das empresas. 
+						</p>
+					</div>
 
-	</div>
+					<div class="box-t">
+						<h4 class="size-t"><i class="far fa-eye"></i></h4>
+						<h5 class="size-tt">Visão</h5>
+						<p>
+							Tornar-se referência em assessoria e consultoria contábil na cidade do Salvador e região 
+							metropolitana, proporcionar uma gestão contábil e financeira de excelência pautada no 
+							atendimento personalizado e disponibilizar aos nossos clientes uma contabilidade cada vez 
+							mais rápida, prática e fidedigna. 
+						</p>
+					</div>
 
+					<div class="box-t">
+						<h4 class="size-t"><i class="fab fa-gratipay"></i></h4>
+						<h5 class="size-tt">Valores</h5>
+						<p>
+							Ética
+							<br>Transparência <br>Respeito a Sociedade
+						</p>
+					</div>
+				</div>
+		</div>
+
+		<div class="description-t">
+			lorekroerjwinfishdasi ojfaiashfai
+		</div>
 	</section>
-
-
-
-
 </body>
 
 
