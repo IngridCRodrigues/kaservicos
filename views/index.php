@@ -59,29 +59,39 @@
 				
 			</div>
 		</a>
+
+			<a href="fiscal-sector.php">
 			<div class="service">
 				<i class="fas fa-calculator"></i>
 				<h2>Assessoria Tributária/Fiscal</h2>
 				
 			</div>
+			</a>
 
+
+			<a href="personal-sector.php">
 			<div class="service">
 				<i class="fas fa-users-cog"></i>
 				<h2>Setor Pessoal</h2>
 				
 			</div>
+			</a>
 
+			<a href="bpo.php">
 			<div class="service">
 				<i class="fas fa-chart-line"></i>
 				<h2>BPO Financeiro</h2>
 				
 			</div>
+			</a>
 
+			<a href="curso.php">
 			<div class="service">
 				<i class="fas fa-chalkboard-teacher"></i>
 				<h2>Cursos e Treinamentos</h2>
 				
 			</div>
+			</a>
 
 		</div>
 		</section>

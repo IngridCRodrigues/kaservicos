@@ -28,27 +28,94 @@
 		<br><br>
 
 		O Setor Pessoal da KA Serviços Contábeis atua no acompanhamento das relações trabalhistas de empresas de diversos ramos, executando as seguintes atividades:<br><br>
+	</div>
 
-		•	Admissões em conformidade com aspectos legais;<br>
+	<div class="services-single">
+			<div class="inner-single">
 
-		•	Controle de Férias;<br>
+			</div>
+			<div class="container-single">
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-file-text"></i>
+					</div>
+					<div class="title-single">Admissões em conformidade com aspectos legais</div>			
+				</div>
 
-		•	Folhas de Pagamento;<br>
 
-		•	Folhas de Pró-Labore e RPA;<br>
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-sun-o"></i>
+					</div>
+					<div class="title-single">Controle de Férias</div>			
+				</div>
 
-		•	Encargos Sociais de FGTS, GPS, IRRF, Contribuições Sindicais;<br>
 
-		•	Rescisões Contratuais;<br>
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-files-o"></i>
+					</div>
+					<div class="title-single">Folhas de Pagamento</div>			
+				</div>
 
-		•	Informe de Rendimentos Anuais;<br>
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-percent"></i>
+					</div>
+					<div class="title-single">Folhas de Pró-Labore e RPA</div>			
+				</div>
 
-		•	Atendimento à Fiscalizações;<br>
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-bar-chart"></i>
+					</div>
+					<div class="title-single">Encargos Sociais de FGTS, GPS, IRRF, Contribuições Sindicais</div>			
+				</div>
 
-		•	Acompanhamento de Convenções e Acordos Coletivos;<br>
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-handshake-o"></i>
+					</div>
+					<div class="title-single">Rescisões Contratuais</div>			
+				</div>
 
-		•	Comunicação e adequação dos clientes sobre mudanças pertinentes na legislação.<br>
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-calendar"></i>
+					</div>
+					<div class="title-single">Informe de Rendimentos Anuais</div>			
+				</div>
+				
 
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-file-text-o"></i>
+					</div>
+					<div class="title-single">Atendimento à Fiscalizações</div>			
+				</div>
+				
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa fa-users"></i>
+					</div>
+					<div class="title-single">Acompanhamento de Convenções e Acordos Coletivos</div>			
+				</div>
+				
+
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-book"></i>
+					</div>
+					<div class="title-single">Comunicação e adequação dos clientes sobre mudanças pertinentes na legislação</div>			
+				</div>
+
+
+
+
+			</div>
+		</div>
 
 		</div>
 

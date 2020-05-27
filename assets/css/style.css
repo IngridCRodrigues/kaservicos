@@ -148,7 +148,7 @@ section .divisor::after {
 	z-index: -1111;
 }
 
-@media screen and (max-width: 1092px ){
+@media screen and (max-width: 1100px ){
 	.show-menu-botton, .hide-menu-botton {
 		display: block;
 	}
@@ -1066,7 +1066,7 @@ OPEN BUNISSESS */
 }
 
 .top-open-bpo::after {
-	background: url(../img/bpo-financeiro.png) no-repeat;
+	background: url(../img/bpo-financeiro.jpg) no-repeat;
 	width: 100%;
 	background-size: cover;
 }
@@ -1417,6 +1417,19 @@ a {
 @media screen and (max-width: 960px) {
 	.box-single {
 		max-width: 50%;
+	}
+
+	.content-t {
+		padding: 0;
+	}
+
+	.content-top h1 {
+	    font-size: 39px;
+	    margin-top: 50px;
+	}
+
+	.container-t {
+		padding: 0;
 	}
 
 }

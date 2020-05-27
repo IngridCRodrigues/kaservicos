@@ -26,13 +26,61 @@
 		<div class="">
 			<p>
 			Prezando pela qualidade, agilidade e confiabilidade, a KA Serviços Contábeis oferece os serviços de legalização de empresas, tais como: <br><br>
+</div>
 
-Constituição, alteração e encerramento de empresas; <br>
-Regularização cadastral junto aos órgãos fazendários e demais órgãos públicos;<br>
-Emissão e renovação de alvará de funcionamento, alvará de publicidade e alvará de saúde;<br>
-Registro de filial com sede em outra UF;<br>
-Emissão de certidões negativas; <br>
-Habilitação para emissão de notas fiscais.<br>
+
+
+		<div class="services-single">
+			<div class="inner-single">
+
+			</div>
+			<div class="container-single">
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-file-text"></i>
+					</div>
+					<div class="title-single">Constituição, alteração e encerramento de empresas</div>			
+				</div>
+
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class=" fa fa-search"></i>
+					</div>
+					<div class="title-single">Regularização cadastral junto aos órgãos fazendários e demais órgãos públicos</div>			
+				</div>
+
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-certificate"></i>
+					</div>
+					<div class="title-single">Emissão e renovação de alvará de funcionamento, alvará de publicidade e alvará de saúde</div>			
+				</div>
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-registered"></i>
+					</div>
+					<div class="title-single">Registro de filial com sede em outra UF</div>			
+				</div>
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-bar-chart"></i>
+					</div>
+					<div class="title-single">Emissão de certidões negativas</div>			
+				</div>
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-file-text-o"></i>
+					</div>
+					<div class="title-single">Habilitação para emissão de notas fiscais</div>			
+				</div>
+				
+			</div>
+		</div>
 
 
 		</p>

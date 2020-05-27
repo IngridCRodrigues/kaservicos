@@ -24,7 +24,7 @@
 	<div class="row">
 		<div class="">
 		<p>
-		BPO Financeiro ou Terceirização da gestão financeira. Nosso maior objetivo é que o empresário foque no seu negócio. Terceirizar a gestão financeira possibilitará qualidade e segurança nas rotinas financeiras, acesso às informações a qualquer hora, além da redução de custo interno com mão de obra e com isso maximizar os lucros
+		BPO Financeiro ou Terceirização da gestão financeira. Nosso maior objetivo é que o empresário foque no seu negócio. Terceirizar a gestão financeira possibilitará qualidade e segurança nas rotinas financeiras, acesso às informações a qualquer hora, além da redução de custo interno com mão de obra e com isso maximizar os lucros.
 		</p>
 
 		</div>
