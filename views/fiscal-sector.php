@@ -31,26 +31,79 @@ Utilizamos o planejamento tributário através de métodos estratégicos de form
 
 Contamos com uma equipe de especialistas em assessoria e análise tributária, viabilizado o melhor cenário aos nossos clientes, executando as seguintes atividades:
 <br><br>
-
-•	Apuração tributária mensal;<br>
-•	Acompanhamento na emissão de documentos fiscais;<br>
-•	Consultoria Tributária;<br>
-•	Mitigação de riscos fiscais;<br>
-•	Escrituração dos livros fiscais;<br>
-•	Apuração dos impostos pertinentes e emissão das guias;<br>
-•	Elaboração das obrigações acessórias fiscais de acordo com  natureza jurídica e regime tributário do cliente <br>
-•	Planejamento tributário;<br>
-
-
 	</p>
 		</div>
 
-<!-- <div class="col-sm-5"> 
-	<div class="img-wrap">
-		<img src="../assets/img/setor-fiscal.jpg">
-	</div>
 
-</div> -->
+
+		<div class="services-single">
+			<div class="inner-single">
+
+			</div>
+			<div class="container-single">
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-search"></i>
+					</div>
+					<div class="title-single">Apuração tributária mensal</div>			
+				</div>
+
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-file-text"></i>
+					</div>
+					<div class="title-single">Acompanhamento na emissão de documentos fiscais</div>			
+				</div>
+
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-calculator"></i>
+					</div>
+					<div class="title-single">Consultoria Tributária</div>			
+				</div>
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-calendar-check-o"></i>
+					</div>
+					<div class="title-single">Apuração tributária mensal</div>			
+				</div>
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-bar-chart"></i>
+					</div>
+					<div class="title-single">Mitigação de riscos fiscais</div>			
+				</div>
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-file-text-o"></i>
+					</div>
+					<div class="title-single">Apuração dos impostos pertinentes e emissão das guias</div>			
+				</div>
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-list"></i>
+					</div>
+					<div class="title-single">Elaboração das obrigações acessórias fiscais </div>			
+				</div>
+
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-pie-chart"></i>
+					</div>
+					<div class="title-single">Planejamento tributário</div>			
+				</div>
+				
+			</div>
+		</div>
+
+
 
 		
 	</div>
@@ -63,4 +116,5 @@ Contamos com uma equipe de especialistas em assessoria e análise tributária, v
 </body>
 <?php 
 
+include("../includes/advertising.inc"); 
 include("../includes/footer.inc"); ?>

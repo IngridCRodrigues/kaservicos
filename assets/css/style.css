@@ -1032,6 +1032,7 @@ OPEN BUNISSESS */
 	width: 100%;
 	min-height: 100vh;	
 	background: url(../img/background.png);
+	background-attachment: fixed;
 	
 }
 
@@ -1112,13 +1113,14 @@ OPEN BUNISSESS */
 }
 
 .div-service {
-	width: 80%;
+	max-width: 100%;
 	min-height: 80vh;
 	margin: auto;
 	padding: 50px;	
     background-color: #ecf0f1;
     /* border-radius: 5%; */
-    margin-top: 40px;
+    margin-top: 40px;    
+	box-shadow: 0 15px 45px #fff;
 }
 
 .div-service p {
@@ -1345,6 +1347,83 @@ OPEN BUNISSESS */
 
 
 a {
-
 	text-decoration: none;
+}
+
+
+/*SERVICOS SINGLE*/
+.services-single {
+
+}
+
+.inner-single {
+	width: 100%;
+	max-width: 1200px;
+	margin: auto;
+	padding: 0 20px;
+	overflow: hidden;
+}
+
+.title-single {
+	text-align: center;
+	color: #0d0c52;
+	font-size: 20px;
+}
+
+
+.container-single {
+	display: flex;flex-wrap: wrap;
+	justify-content: center;
+}
+
+.box-single {
+	max-width: 22%;
+	padding: 25px;
+	text-align: center;
+	color: #000;
+	cursor: pointer;
+}
+
+.single-icon {
+	display: inline-block;
+	width: 60px;
+	height: 60px;
+	transform: rotate(45deg);
+	margin-bottom: 20px;
+	margin-top: 16px; 
+	transition: 0.3s linear;
+	border: 2px solid  #0d0c52;
+
+}
+
+.single-icon i {
+	line-height: 60px;
+	transform: rotate(-45deg);
+	font-size: 16px;
+	color:  #0d0c52;
+}
+
+.box-single:hover .single-icon  {
+	background-color:  #0d0c52;
+	color: #fff;
+	cursor: none;
+}
+
+.box-single:hover .single-icon i  {
+	color: #fff;
+}
+
+
+@media screen and (max-width: 960px) {
+	.box-single {
+		max-width: 50%;
+	}
+
+}
+
+@media screen and (max-width: 500px) {
+	.box-single {
+		max-width: 100%;
+	}
+
 }
