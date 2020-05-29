@@ -24,10 +24,64 @@
 	<div class="row">
 		<div class="">
 		<p>
-		BPO Financeiro ou Terceirização da gestão financeira. Nosso maior objetivo é que o empresário foque no seu negócio. Terceirizar a gestão financeira possibilitará qualidade e segurança nas rotinas financeiras, acesso às informações a qualquer hora, além da redução de custo interno com mão de obra e com isso maximizar os lucros.
-		</p>
+	BPO Financeiro é a terceirização da gestão financeira da sua empresa, com o objetivo que o empresário foque no seu negócio.<br>
 
+Terceirizar a gestão financeira possibilitará a qualidade e segurança nas rotinas financeiras, acesso às informações a qualquer hora, além da redução de custo interno com mão de obra e com isso maximizar os lucros. <br>
+<br>
 		</div>
+
+<div class="services-single">
+			<div class="inner-single">
+
+			</div>
+			<div class="container-single">
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-search"></i>
+					</div>
+					<div class="title-single">Gerenciamento de contas a pagar e a receber</div>			
+				</div>
+
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-file-text"></i>
+					</div>
+					<div class="title-single">Controle de Documentos Financeiros</div>			
+				</div>
+
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-calculator"></i>
+					</div>
+					<div class="title-single">Faturamento</div>			
+				</div>
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-calendar-check-o"></i>
+					</div>
+					<div class="title-single">Conciliação bancária</div>			
+				</div>
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-bar-chart"></i>
+					</div>
+					<div class="title-single">Controle do fluxo de caixa</div>			
+				</div>
+
+
+				<div class="box-single">
+					<div class="single-icon">
+						<i class="fa fa-list"></i>
+					</div>
+					<div class="title-single">Emissão de relatórios financeiros.</div>			
+				</div>
+				
+			</div>
+
 
 	</section>
 

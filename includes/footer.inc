@@ -5,10 +5,9 @@
 				<div class="social-media">
 					<a href="https://www.facebook.com/kaservicoscontabeis" target="_blank"><i class="fab fa-facebook"></i></a>
 					<a href="https://www.instagram.com/kaservicos" target="_blank"><i class="fab fa-instagram"></i></a>
-					<a href="#" target="_blank"><i class="fab fa-youtube"></i></a>
+					<a href="https://www.youtube.com/channel/UCC3AT3cECO7uCRu7gdoyVhw" target="_blank"><i class="fab fa-youtube"></i></a>
 					<a href="https://www.linkedin.com.br/company/kaservicos" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 				</div>
-		<a href="https://www.dominioatendimento.com:82/login.html" target="_blank"><h4>Área do Cliente</h1></a>
 			</div>
 
 			<div class="right-col"></div>

@@ -14,7 +14,7 @@
 <section class="b1">
 	<div class="ini">
 		<div class="content">
- 			<h1>Aliamos confiança e inovação</h1>
+ 			<h3>Aliamos confiança e inovação</h3>
  			<a class="botton-ini" href="#box-tecs"><i class="fas fa-chevron-circle-down"></i></a>
 		</div>
 		
@@ -22,32 +22,26 @@
 </section>
 
 	<div class="contact-info">
-		<div class="option">
-			<i class="fab fa-whatsapp"></i>
-			<div class="text">Converse pelo whatsapp</div>
-		</div>
-
-		<div class="option">
-			<i class="fas fa-envelope"></i>
-			<div class="text">contato@kaservicos.com.br</div>
-		</div>
-
+		<a target="_blank" href="https://api.whatsapp.com/send?phone=5571981072614&text=Ol%C3%A1!%20Encontrei%20a%20KA!">
+			<div class="option">
+				<i class="fab fa-whatsapp"></i>
+				<div class="text">Converse pelo whatsapp</div>
+			</div>
+		</a>
+		<a target="_blank" href="mailto:contato@kaservicos.com?subject=Olá%20KA">
+			<div class="option">
+				<i class="fas fa-envelope"></i>
+				<div class="text">contato@kaservicos.com.br</div>
+			</div>
+		</a>
 	</div>
 
 	<section class="box-tecs" id="box-tecs">
-	<!-- 	
-		<div class="title-animation">
-			
-			<span class="text1"> BEM VINDO(A) A</span>
-			<span class="text2">KA SERVIÇOS CONTÁBEIS</span>
-		</div> -->
 		<h1>
 			CONHEÇA A KA SERVIÇOS CONTÁBEIS
 		</h1>
 
-		<p> Somos uma empresa de contabilidade carregando a experiência de 13 anos, <br> aplicando atendimento personalizado dos seus clientes. </p>
-
-
+		<p> Somos uma empresa de contabilidade carregando a experiência de 14 anos, <br> aplicando atendimento personalizado dos seus clientes. </p>
 
 	<div class="services" id="services">
 
@@ -63,7 +57,7 @@
 			<a href="fiscal-sector.php">
 			<div class="service">
 				<i class="fas fa-calculator"></i>
-				<h2>Assessoria Tributária/Fiscal</h2>
+				<h2>Departamento Tributário/Fiscal</h2>
 				
 			</div>
 			</a>
@@ -72,7 +66,7 @@
 			<a href="personal-sector.php">
 			<div class="service">
 				<i class="fas fa-users-cog"></i>
-				<h2>Setor Pessoal</h2>
+				<h2>Departamento Pessoal</h2>
 				
 			</div>
 			</a>
@@ -91,6 +85,13 @@
 				<h2>Cursos e Treinamentos</h2>
 				
 			</div>
+			</a> 
+
+			<a href="contabil.php">
+			<div class="service">
+				<i class="fa fa-pie-chart"></i>
+				<h2>Departamento Contábil</h2>				
+			</div>
 			</a>
 
 		</div>
@@ -98,10 +99,10 @@
 
 		<section class="bottons-bussiness">
 			<div class="left-col-b">
-				<a href="" class="botton-bussiness-l">Abrir empresa</a>
+				<a href="open-bunissess.php" class="botton-bussiness-l">Abrir empresa</a>
 			</div>
 			<div class="right-col-b">
-				<a href="" class="botton-bussiness-r">Já tenho empresa</a>
+				<a href="open-bunissess.php" class="botton-bussiness-r">Já tenho empresa</a>
 			</div>
 		</section>
 
@@ -109,7 +110,7 @@
 		<section class="section-blog"> 
 			<div class="container-blog">
 				<div class="header-blog">
-					<h1>BLOG</h1>
+					<h3>BLOG</h3>
 					<p>Apresentamos os melhores conteúdos de forma gratuita para você.</p>
 				</div>
 
@@ -166,7 +167,7 @@
 		<section class="divisor" id="ebook">
 			<div class="container-b">
 				<form>
-					<h1>Baixe grátis nosso e-book</h1>
+					<h4>Baixe grátis nosso e-book</h4>
 					<p>"Primeiros passos para empreender" é um guia para você que está começando o seu negócio ou precisa recomeçar em algumas áreas do seu empreendimento</p>
 					<div class="email-box">
 						<i class="fas fa-download"></i>
@@ -178,7 +179,7 @@
 		</section>
 		<section id="contact">
 			<div class="contact-section">
-				<h1>TIRE SUAS DÚVIDAS</h1>
+				<h4>FALE CONOSCO</h4>
 				<div class="border"></div>
 			<form class="contact-form" action="index.html" method="post">
 				<input class="contact-form-text" type="text" name="name" placeholder="Seu nome">
@@ -203,10 +204,9 @@
 				<div class="social-media">
 					<a href="https://www.facebook.com/kaservicoscontabeis" target="_blank"><i class="fab fa-facebook"></i></a>
 					<a href="https://www.instagram.com/kaservicos" target="_blank"><i class="fab fa-instagram"></i></a>
-					<a href="https://www.youtube.com.br/" target="_blank"><i class="fab fa-youtube"></i></a>
+					<a href="https://www.youtube.com/channel/UCC3AT3cECO7uCRu7gdoyVhw" target="_blank"><i class="fab fa-youtube"></i></a>
 					<a href="https://www.linkedin.com.br/company/kaservicos" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 				</div>
-		<a href="#"><h4>Área do Cliente</h1></a>
 			</div>
 
 			<div class="right-col"></div>

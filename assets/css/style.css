@@ -179,6 +179,7 @@ section .divisor::after {
 	#checkbox:checked ~ .menu {
 		right: 0;
 	}
+
 }
 
 
@@ -241,7 +242,7 @@ section .divisor::after {
 	text-align: center;
 }
 
-.content h1 {
+.content h3 {
 	color: #f9f3f4;
 	font-size: 50px;
 	text-shadow: 0 0 300px #000;
@@ -335,7 +336,7 @@ section .divisor::after {
 	line-height: 60px;
 	background: #801B59;
 	color: #fff;
-	font-size: 20px;
+	font-size: 32px;
 	transition: 0.6s;
 }
 
@@ -539,6 +540,8 @@ section .divisor::after {
 	text-transform: uppercase;
 	font-weight: 500;
 	margin: 0;
+	color: #000;
+	text-decoration: none;
 }
 
 .service p {
@@ -657,7 +660,7 @@ main {
 	margin: 0 auto;
 }
 
-.header-blog h1 {
+.header-blog h3 {
 	margin: 0;
 	color: #801B59;
 	font-weight: 500;
@@ -871,7 +874,7 @@ main {
 
 }
 
-.contact-section h1 {
+.contact-section h4 {
 	text-align: center;
 	color: #801B59;
 	font-size: 40px;
@@ -1041,7 +1044,7 @@ OPEN BUNISSESS */
 
 }
 
-.top-open, .top-open-bpo, .top-open-fiscal, .top-open-open, .top-open-personal {
+.top-open, .top-open-bpo, .top-open-fiscal, .top-open-open, .top-open-personal, .top-open-cursos, .top-open-contabil {
 	width: 100%;
 	height: 50vh;
 	margin: auto;
@@ -1051,7 +1054,7 @@ OPEN BUNISSESS */
 	background-color: #0d0c52;
 }
 
-.top-open::after, .top-open-bpo::after, .top-open-bpo::after, .top-open-fiscal::after, .top-open-open::after, .top-open-personal::after {
+.top-open::after, .top-open-bpo::after, .top-open-bpo::after, .top-open-fiscal::after, .top-open-open::after, .top-open-personal::after, .top-open-cursos::after, .top-open-contabil::after {
 	content: "";
 	position: absolute;
 	left: 0;
@@ -1084,10 +1087,23 @@ OPEN BUNISSESS */
 }
 
 .top-open-personal::after {
-	background: url(../img/setor-pessoal.jpg) no-repeat;
+	background: url(../img/carteira-de-trabalho.jpg) no-repeat;
 	width: 100%;
 	background-size: cover;
 }
+
+.top-open-cursos::after {
+	background: url(../img/cursos-contabilidade.jpg) no-repeat;
+	width: 100%;
+	background-size: cover;
+}
+
+.top-open-contabil::after {
+	background: url(../img/departamento-contabil.jpg) no-repeat;
+	width: 100%;
+	background-size: cover;
+}
+
 
 .content-top {
 	max-width: 500px;
@@ -1167,13 +1183,17 @@ OPEN BUNISSESS */
 .case {
 	padding: 30px;
 	background-color: #fff;
-	min-height: 480px;
+	min-height: 350px;
 	box-shadow: 0 15px 45px rgba(0,0,0, .1);
 }
 
+.case p {
+	text-align: justify;
+}
+
 .case img {
-	width: 100px;
-	height: 100px;
+	width: 142px;
+	height: 142px;
 	border-radius: 50%;
 }
 
@@ -1294,6 +1314,7 @@ OPEN BUNISSESS */
 	z-index: 2;
 	color: #555;
 	transition: 0.5s;
+	text-align: justify;
 }
 
 .container-t .box-t:hover h5,
@@ -1377,7 +1398,7 @@ a {
 }
 
 .box-single {
-	max-width: 22%;
+	width: 22%;
 	padding: 25px;
 	text-align: center;
 	color: #000;
@@ -1416,7 +1437,7 @@ a {
 
 @media screen and (max-width: 960px) {
 	.box-single {
-		max-width: 50%;
+		width: 50%;
 	}
 
 	.content-t {
@@ -1436,7 +1457,16 @@ a {
 
 @media screen and (max-width: 500px) {
 	.box-single {
-		max-width: 100%;
+		width: 100%;
 	}
+
+}
+
+.container-b form h4 {
+	font-size: 22px;
+}
+
+.fa-whatsapp::before {
+	color: #25D366;
 
 }

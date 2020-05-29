@@ -2,7 +2,7 @@
 <html lang="pt">
 <head>
 	<meta charset="utf-8">
-	<title>Setor Pessoal</title>
+	<title>Departamento Pessoal - Ka Serviços Contábeis</title>
 	<link rel="stylesheet" type="text/css" href="../assets/css/style.css">
 	<script src="https://kit.fontawesome.com/0c3fd300b7.js" crossorigin="anonymous"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +16,7 @@
 	<div class="top-open-personal">
 		<div class="top-page">
 			<div class="content-top">
-	 			<h1>SETOR PESSOAL</h1>
+	 			<h1>DEPARTAMENTO PESSOAL</h1>
 			</div>		
 		</div>
 	</div>
@@ -27,7 +27,7 @@
 		É importante compreender que é papel do departamento pessoal cuidar de toda a administração de pessoal. Sabemos que os funcionários são o maior bem de uma empresa, sem eles as coisas simplesmente não acontecem, a produção não caminha e seus clientes não recebem atendimento.
 		<br><br>
 
-		O Setor Pessoal da KA Serviços Contábeis atua no acompanhamento das relações trabalhistas de empresas de diversos ramos, executando as seguintes atividades:<br><br>
+		O Departamento Pessoal da KA Serviços Contábeis atua no acompanhamento das relações trabalhistas de empresas de diversos ramos, executando as seguintes atividades:<br><br>
 	</div>
 
 	<div class="services-single">

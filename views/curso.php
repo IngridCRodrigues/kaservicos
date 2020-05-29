@@ -2,7 +2,7 @@
     <html lang="pt">
     <head>
         <meta charset="utf-8">
-        <title>Clientes</title>
+        <title>Cursos e Treinamentos - KA Serviços Contábeis</title>
         <link rel="stylesheet" type="text/css" href="../assets/css/style.css">
         <script src="https://kit.fontawesome.com/0c3fd300b7.js" crossorigin="anonymous"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +16,7 @@
 
         <section class="all-page">
 
-            <div class="top-open">
+            <div class="top-open-cursos">
                 <div class="top-page">
                     <div class="content-top">
                         <h1>CURSOS E TREINAMENTOS </h1>
@@ -31,9 +31,24 @@
 
                     <div class="row-case">
 
-                        
+                         <div class="col-case">
+                        <div class="case">
+                           <!--  <img src="../assets/img/curso-esocial.jpg" alt="Logo do Esocial"> -->
+                            <div class="name-case"></div>
+                            <p>
+                                Oferecemos cursos e treinamentos in company nas áreas de Departamento fiscal, Departamento pessoal e Legalização de Empresas. </p><br><br>
 
-                    <div class="col-case">
+Confira a oferta de Cursos Disponíveis:<br> 
+
+                                <br><br>
+                            </p>                            
+                                <a href="ww.bit.ly/cursoesocial" class="button-c"> Acesse aqui </a>
+                        </div>
+                    </div>
+
+
+
+  <!--                   <div class="col-case">
                         <div class="case">
                             <img src="../assets/img/curso-esocial.jpg" alt="Logo do Esocial">
                             <div class="name-case">ESOCIAL</div>
@@ -89,7 +104,7 @@ Venha para o nosso Curso de Departamento Pessoal e aprenda: <br>
                             </p><a href="https://credencial.imasters.com.br/abertura-de-empresas" class="button-c"> Acesse aqui </a>
                         </div>
                     </div>
-
+ -->
 
                     </div>
 

@@ -7,8 +7,9 @@
 	<script src="https://kit.fontawesome.com/0c3fd300b7.js" crossorigin="anonymous"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-
-<?php include('../includes/header.inc'); ?>
+    <?php include('../includes/header.inc'); 
+    include('../includes/medias.inc');
+    ?>
 <body>
 	<section class="all-page">
 	
@@ -56,7 +57,7 @@
 		</div>
 
 		<div class="description-t">
-			Atuamos no segmento contábil a mais de 14 anos com qualidade e inovação.
+			Atuamos no segmento contábil há mais de 14 anos com qualidade e inovação.
 
 			Nossa sede fica em Salvador/BA, contudo, atendemos nos mais diversos Estados, como São Paulo, Rio de Janeiro, Sergipe, Minas Gerais e Rio Grande do Norte.
 
