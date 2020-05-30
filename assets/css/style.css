@@ -1198,7 +1198,7 @@ OPEN BUNISSESS */
 .case {
 	padding: 30px;
 	background-color: #fff;
-	min-height: 350px;
+    min-height: 360px;
 	box-shadow: 0 15px 45px rgba(0,0,0, .1);
 }
 
