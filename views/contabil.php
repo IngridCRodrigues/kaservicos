@@ -58,7 +58,7 @@
 
 				<div class="box-single">
 					<div class="single-icon">
-						<i class="fa fa-bar-chart"></i>
+						<i class="fas fa-book"></i>
 					</div>
 					<div class="title-single">Composição dos livros contábeis de acordo com as normas vigentes</div>			
 				</div>
@@ -72,7 +72,7 @@
 
 				<div class="box-single">
 					<div class="single-icon">
-						<i class="fa fa-list"></i>
+						<i class="fas fa-money-check-alt"></i>
 					</div>
 					<div class="title-single">Demonstração de Lucros ou Prejuízos Acumulados (DLPA) </div>			
 				</div>
@@ -100,7 +100,7 @@
 
 				<div class="box-single">
 					<div class="single-icon">
-						<i class="fa fa-pie-chart"></i>
+						<i class="fas fa-check-square"></i>
 					</div>
 					<div class="title-single">Inventário e Conciliação do Ativo Imobilizado</div>			
 				</div>

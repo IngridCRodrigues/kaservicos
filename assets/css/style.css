@@ -203,7 +203,8 @@ section .divisor::after {
 	width: 100%;
 	height: 100%;
 	background: url(../img/home.png) no-repeat;
-	background-size:cover;
+	background-size:cover;	
+    background-position: center;
 	opacity: 0.3;
 	animation: anim 25s linear infinite;
 }
@@ -871,6 +872,7 @@ main {
 	background-size: cover;
 	padding: 40px 0; 
 	background-attachment: fixed;
+	min-height:  90vh;
 
 }
 
@@ -937,12 +939,12 @@ textarea.contact-form-text {
 
 footer {
 	background: #801B59;
-	padding: 90px 0;
+	padding: 26px 0;
 }
 
 .footer-container {
 /*	max-width: 1300px;
-*/	margin: auto;
+*/	/*margin: auto;
 	padding: 0 20px;
 	display: flex;
 	justify-content: space-between;
@@ -950,6 +952,18 @@ footer {
 	flex-wrap: wrap-reverse;
 	color: white;
 	background-attachment: fixed;
+	min-height: 20vh;*/
+	    /* max-width: 1300px; */
+    margin: auto;
+    display: block;
+    flex-wrap: wrap-reverse;
+    color: white;
+    background-attachment: fixed;
+    max-height: 20vh;
+    padding-left: 72px;
+    padding-right: 72px;
+    max-width: 100%;
+    height: inherit;
 }
 
 .logo-footer {
@@ -958,6 +972,7 @@ footer {
 
 .social-media {
 	margin: 20px 0;
+	float: right;
 }
 
 .social-media a {
@@ -1435,6 +1450,12 @@ a {
 }
 
 
+.container-t .box-t {
+	margin: auto;
+	min-height: 250px;
+}
+
+
 @media screen and (max-width: 960px) {
 	.box-single {
 		width: 50%;
@@ -1460,6 +1481,9 @@ a {
 		width: 100%;
 	}
 
+	.container-t .box-t {
+		width: 100%;
+	}
 }
 
 .container-b form h4 {
@@ -1469,4 +1493,105 @@ a {
 .fa-whatsapp::before {
 	color: #25D366;
 
+}
+
+
+/*FOOTER*/
+
+
+
+.icons-footer {
+	padding: 5px;
+	float: left;
+	display: block;
+	width: 80%;
+}
+
+.icons-text {
+	float: left;
+	margin-right: 4px;
+}
+
+.right-col {
+	float: right;
+	width: 50%;
+	display: block;
+}
+
+.left-col {
+	float: left;
+	width: 50%;
+}
+
+.contact-divs {
+	float: left;
+	width: 50%;
+}
+
+.contact-divs-map {
+	float: right;
+	width: 50%;
+}
+
+.contact-divs-map iframe {
+	width: 90%;
+	min-height: 400px; 
+	padding:  20px;
+	max-height: 80vh;
+}
+
+
+/*RESPONSIVIDADE */
+
+
+@media screen and (max-width: 700px) {
+
+	.footer-container {
+		min-height: 26vh;
+	}
+
+	.right-col {
+		min-width: 100%;
+	}
+
+	.left-col {
+		min-width: 100%;
+		text-align: center;
+	}
+
+	.contact-section {
+		height: 171vh;
+	}
+
+	.contact-divs, .contact-divs-map {
+		width: 100%;
+	}
+
+}
+
+
+@media screen and (max-width: 414px) {
+
+	.footer-container {
+		min-height: 35vh;
+	}
+
+	.icons-footer {
+		width: 90%;
+	}
+
+	.header img {
+		height: 60%;
+	}
+
+	.button-proposal {
+		width: 100px;
+		height: 60%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.footer-container {
+		min-height: 45vh;
+	}
 }
